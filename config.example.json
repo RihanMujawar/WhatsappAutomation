@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "keywords": ["hello", "hi"],
+      "replies": [
+        "Hi! Thanks for messaging.",
+        "I'll get back to you as soon as I can."
+      ]
+    },
+    {
+      "keywords": ["hours", "opening time"],
+      "replies": [
+        "We're open Monday to Friday, 9 AM to 5 PM."
+      ]
+    }
+  ]
+}
